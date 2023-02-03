@@ -9,9 +9,9 @@ n = 7
 arr = [3, 4, 7, 5, 6, 2, 1]
 Working from left to right, we get the following output:
 
-3 4 7 5 6 2 1 \n
-3 4 7 5 6 2 1 \n
-3 4 5 7 6 2 1 \n
-3 4 5 6 7 2 1 \n
-2 3 4 5 6 7 1 \n
-1 2 3 4 5 6 7 \n
+3 4 7 5 6 2 1 <br>
+3 4 7 5 6 2 1 <br>
+3 4 5 7 6 2 1 <br>
+3 4 5 6 7 2 1 <br>
+2 3 4 5 6 7 1 <br>
+1 2 3 4 5 6 7 <br>
